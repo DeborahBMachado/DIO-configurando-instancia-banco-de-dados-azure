@@ -8,7 +8,7 @@ O cliente é responsável pela: instalação, configuração e manutenção do S
 
 No Azure um exemplo de IaaS são as maquinas virtuais:
 
-![Alt Text]()
+![Alt Text](https://github.com/DeborahBMachado/DIO-configurando-instancia-banco-de-dados-azure/blob/main/lab3/Captura%20de%20tela%202024-09-20%20224548.png)
 
 PaaS: adequado para um ambiente de desenvolvimento. Não se preocupa com patch em SO e banco de dados; não se preocupa com o SO, banco de dados e ferramentas de desenvolvimento
 
