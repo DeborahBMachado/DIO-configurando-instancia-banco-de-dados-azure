@@ -16,7 +16,7 @@ O cliente se preocupa com a configuração da rede, segurança e diretório
 
 No Azure um exemplo de PaaS são os banco de dados SQL:
 
-![Alt Text]()
+![Alt Text](https://github.com/DeborahBMachado/DIO-configurando-instancia-banco-de-dados-azure/blob/main/lab3/Captura%20de%20tela%202024-09-20%20224913.png)
 
 SaaS: uso de um aplicativo totalmente desenvolvido
 
